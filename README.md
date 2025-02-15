@@ -1,0 +1,2 @@
+# flexoelectricJ
+Flexoelectric J-integral
